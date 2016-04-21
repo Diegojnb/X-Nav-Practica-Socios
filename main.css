@@ -1,0 +1,20 @@
+body{
+  background-color: #1444CC;
+}
+
+.avatar{
+	max-height: 100px;
+  max-width: 100px;
+}
+
+.contenido{
+	text-align: justify;
+}
+
+#actualizar{
+	text-align:center;
+}
+
+.divAct{
+	text-align:center;
+}
