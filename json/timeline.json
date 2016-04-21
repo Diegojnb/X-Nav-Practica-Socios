@@ -1,0 +1,32 @@
+[
+	{
+		"Autor": "Joker",
+		"Avatar": "http://i48.tinypic.com/okyl3s.jpg",
+		"Titulo": "Mariano Rajoy asegura que no conoce a Rita Barberá “ni a nadie del Partido Popular”",
+		"Fecha": "15-3-2015",
+		"Contenido": "El presidente del Gobierno en funciones, Mariano Rajoy, ha presidido en el Senado la reunión del grupo parlamentario popular en la Cámara, en un encuentro en el que no se entró a fondo a realizar declaraciones sobre la corrupción que asola su partido en Valencia, ni tampoco se valoró la ausencia de la actual senadora y exalcaldesa valenciana, Rita Barberá, a quien Mariano Rajoy aseguró no conocer en la rueda de prensa ofrecida posteriormente."
+	},
+	{
+		"Autor": "Gw",
+		"Avatar": "http://www.nocturnar.com/imagenes/animales-graciosos-2/animales-graciosos-2-videos-graciosos-de-animales.jpg",
+		"Titulo": "Hacienda multa a Aznar por presidir España a través del Partido Popular",
+		"Fecha": "13-3-2015",
+		"Contenido":"El ministro de Hacienda en funciones, Cristobal Montoro, se ha reunido en los últimos días con José María Aznar a raíz de una inspección abierta hace dos años por la Agencia Tributaria que demostraría que el investigado gobernó España entre los años 1996 y 2004 a través del Partido Popular. “En vez de efectuar sus trabajos de presidencia directamente a los españoles, lo hacía a través de esta formación”, ha declarado Montoro a los medios esta mañana."
+	},
+	{
+		"Autor": "Yo",
+		"Avatar": "http://i1237.photobucket.com/albums/ff475/qoqinn/1036152ralph_wiggum_original1.gif",
+		"Titulo": "WhatsApp cifra sus mensajes traduciéndolos al catalán",
+		"Fecha": "19-4-2016",
+    "Contenido":"WhatsApp ha decidido dar un paso adelante en la protección de la intimidad de los internautas que utilizan su app y ha anunciado que, a partir de hoy, todos los mensajes de sus 1.000 millones de usuarios estarán cifrados mediante traducciones al catalán para que ni siquiera la compañía pueda entenderlos."
+
+	},
+	{
+		"Autor":"Perri",
+		"Avatar": "http://i45.tinypic.com/2h5jsjl.jpg",
+		"Titulo": "Felipe VI irrumpe en el Congreso a caballo para formar Gobierno",
+		"Fecha": "12-3-2015",
+		"Contenido":"Con la intención de presionar a los políticos españoles y concretar la formación de un gobierno, Su Majestad el Rey Felipe VI ha irrumpido esta mañana en el Congreso de los Diputados sobre Furor, su imponente corcel, y ha gritado “que el Gobierno sea” mirando a los ojos de Pedro Sánchez y Pablo Iglesias."
+
+	}
+]

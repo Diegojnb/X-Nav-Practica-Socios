@@ -1,6 +1,14 @@
 body{
-  background-color: #1444CC;
+  background-color: #3D5599;
+  font-size: 200%;
 }
+/*
+#1444CC
+#3D5599
+#00C9FF
+#FF5700
+#000000
+*/
 
 .avatar{
 	max-height: 100px;

@@ -1,0 +1,33 @@
+[
+	{
+		"Autor": "Joker",
+		"Avatar": "http://i48.tinypic.com/okyl3s.jpg",
+		"Titulo": "Las frases más importantes de la rueda de prensa de Rita Barberá",
+		"Fecha": "20-5-2018",
+		"Contenido":"La exalcaldesa de Valencia Rita Barberá ha dado una extensa rueda de prensa en la que ha defendido su inocencia a capa y espada. Barberá ha negado todas las acusaciones y ha criticado la persecución mediática a la que se ha visto sometida. A continuación, un repaso de sus frases más significativas:"
+
+
+	},
+	{
+		"Autor": "Perri",
+		"Avatar": "http://i45.tinypic.com/2h5jsjl.jpg",
+		"Titulo": "La Interpol deja de buscar a Wally tras 30 años de investigación",
+		"Fecha": "32-6-2017",
+		"Contenido":"La Organización Internacional de Policía Criminal, más conocida como Interpol, ha anunciado esta mañana que se desactivará la búsqueda internacional de Wally, el joven con gafas negras, bastón y jersey a rayas que se encuentra en paradero desconocido desde 1987."
+	},
+	{
+		"Autor": "Yo",
+		"Avatar": "http://i1237.photobucket.com/albums/ff475/qoqinn/1036152ralph_wiggum_original1.gif",
+		"Titulo": "Clase 3",
+		"Fecha": "21-4-2016",
+		"Contenido": "La clase se realizará en el aula de teoría"
+
+	},
+	{
+		"Autor":"Gw",
+		"Avatar": "http://www.nocturnar.com/imagenes/animales-graciosos-2/animales-graciosos-2-videos-graciosos-de-animales.jpg",
+		"Titulo": "El Papa Francisco reconoce que Dios le cae mal",
+		"Fecha": "16-3-2015",
+		"Contenido": "En sus últimas declaraciones ayer ante la curia vaticana, el Papa Francisco aseguraba que su relación con Dios no pasa por el mejor momento. Me cae mal, reconocía abiertamente. No es nada personal, de verdad, es simplemente que entre Él y yo no hay química, añadía."
+	}
+]

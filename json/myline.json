@@ -1,0 +1,26 @@
+[
+	{
+		"Autor": "Yo",
+		"Avatar": "http://i1237.photobucket.com/albums/ff475/qoqinn/1036152ralph_wiggum_original1.gif",
+		"Titulo": "Clase 3",
+		"Fecha": "21-4-2016",
+		"Contenido": "La clase se realizará en el aula de teoría"
+
+	},
+	{
+		"Autor": "Yo",
+		"Avatar": "http://i1237.photobucket.com/albums/ff475/qoqinn/1036152ralph_wiggum_original1.gif",
+		"Titulo": "WhatsApp cifra sus mensajes traduciéndolos al catalán",
+		"Fecha": "19-4-2016",
+    "Contenido":"WhatsApp ha decidido dar un paso adelante en la protección de la intimidad de los internautas que utilizan su app y ha anunciado que, a partir de hoy, todos los mensajes de sus 1.000 millones de usuarios estarán cifrados mediante traducciones al catalán para que ni siquiera la compañía pueda entenderlos."
+
+	},
+	{
+		"Autor": "Yo",
+		"Avatar": "http://i1237.photobucket.com/albums/ff475/qoqinn/1036152ralph_wiggum_original1.gif",
+		"Titulo": "Pedro Sánchez se imagina un pacto de Gobierno ‘in extremis’, a cámara lenta y huyendo de una explosión",
+		"Fecha": "17-3-2016",
+    "Contenido":"Sin mirar atrás, en el último momento y a cámara lenta. Así es el pacto de Gobierno que Pedro Sánchez tiene en mente según fuentes cercanas a su imaginación, que se ha dejado llevar esta mañana durante un Pleno en el Congreso de los Diputados en el que se ha podido ver al líder socialista ausente, mirando al infinito y sonriendo."
+
+	}
+]
